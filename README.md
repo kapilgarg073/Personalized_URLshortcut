@@ -1,1 +1,2 @@
 # personalized_URLshortcut
+A URL shortener is a simple tool that takes a long URL and turns it into whatever URL you would like it to be. URL Shortener has the functionality of Login and Sign Up and also has edit and remove functionality in the link tables so that the user can easily do changes in his table. And session management in the site so that without login and signup users can’t able to make changes to the table.
